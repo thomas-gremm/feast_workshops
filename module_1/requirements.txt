@@ -6,3 +6,4 @@ sklearn
 xgboost_ray
 jupyterlab
 pyinstrument >= 3.4
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
